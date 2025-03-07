@@ -45,8 +45,4 @@ This project analyzes **Airbnb listings in New York City for 2025**, providing k
 ## 📜 **License**  
 📝 This project is licensed under the **MIT License**.  
 
----
-
-✅ Now, your **headings and key points are bold** while keeping the proper GitHub formatting! 🚀  
-Would you like any additional improvements? 😊  
 
