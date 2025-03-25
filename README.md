@@ -31,7 +31,7 @@ This project analyzes **Airbnb listings in New York City for 2025**, providing k
 
 ### 🏆 **Host & Property Insights**  
 - 🌟 **Superhosts charge higher rates** but get **better reviews & more bookings**.  
-- 🛏️ **Entire homes/apartments dominate the listings**, while **shared rooms** are the least preferred
+- 🛏️ **Entire homes/apartments dominate the listings**, while **shared rooms** are the least preferred.
 
 ---
 
