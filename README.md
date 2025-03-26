@@ -26,7 +26,7 @@ This project analyzes **Airbnb listings in New York City for 2025**, providing k
 - 📉 **Budget-friendly options** are available in The Bronx & Staten Island.  
 
 ### 🏨 **Availability & Demand**  
-- 🗓️ **Peak booking months**: Summer & Holiday seasons see the highest occupancy.  
+- 🗓️ **Peak booking months**: Summer & Holiday seasons see the highest occupancy
 - ⏳ **Most listings have a minimum stay of 2-3 nights**.  
 
 ### 🏆 **Host & Property Insights**  
