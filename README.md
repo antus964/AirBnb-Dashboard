@@ -38,7 +38,7 @@ This project analyzes **Airbnb listings in New York City for 2025**, providing k
 ## 🚀 **How to Use the Dashboard**  
 1. **Download and open the Power BI file**.  
 2. **Explore interactive charts & filters**.  
-3. **Analyze pricing, availability, and booking trends**.  
+3. **Analyze pricing, availability, and booking trends**.
 
 ---
 
