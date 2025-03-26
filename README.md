@@ -27,7 +27,7 @@ This project analyzes **Airbnb listings in New York City for 2025**, providing k
 
 ### 🏨 **Availability & Demand**  
 - 🗓️ **Peak booking months**: Summer & Holiday seasons see the highest occupancy
-- ⏳ **Most listings have a minimum stay of 2-3 nights**.  
+- ⏳ **Most listings have a minimum stay of 2-3 nights**. 
 
 ### 🏆 **Host & Property Insights**  
 - 🌟 **Superhosts charge higher rates** but get **better reviews & more bookings**.  
