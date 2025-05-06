@@ -16,7 +16,7 @@ This project analyzes **Airbnb listings in New York City for 2025**, providing k
 - 🏗 **Power Query Editor** – Data transformation & cleaning 
 - 📄 **Microsoft Excel** – Data preprocessing  
 - 🗺️ **Geo-mapping** – Location-based analysis of listings  
-
+ 
 ---
 
 ## 🔍 **Key Insights**  
