@@ -8,7 +8,7 @@ This project analyzes **Airbnb listings in New York City for 2025**, providing k
 - ✅ **Interactive Power BI Dashboard** for visual insights   
 - ✅ **Analysis of pricing trends, occupancy rates, and neighborhood popularity**   
 - ✅ **Insights into top hosts, property types, and seasonal demand**
-
+ 
 ---     
 
 ## 🛠 **Tools & Technologies Used** 
